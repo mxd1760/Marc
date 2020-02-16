@@ -1,0 +1,45 @@
+Let's make a Game!
+
+We Meet on Sundays at 4:00 Pm
+We use Unity for the Game Dev Stuff
+We Use Blender for the Modeling/Animation stuff (.fbx is the format used for files)
+
+Team Roles:
+	Marcus.D: 3D Art Stuff (& possibly ???)
+Mark.M: ???
+	Mark.S: ???Programming???
+	
+
+Project Goals:
+	Setup: (get a system working)
+	Brainstorming: (What kind of game do we want?)
+	Make A Prototype: (Unclear)
+RPG:
+    		Pros:
+				Easy to make movement
+			Cons:
+				Depends heavily on story
+				Much work to expand
+  	Platformer:
+    			Pros:
+				Little to no story
+				Easy to make more levels
+			Cons:
+				Medium to difficult movement dependency
+  	Racing:
+    			Pros:
+				Simpleish movement
+				Little to no story
+			Cons:
+				Difficult to expand.
+============================================================================================================================================
+Project Updates:
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date: 02/16/2020
+
+Done: 		Started Stuff
+Doing:		Have some kind of Plan (enough to start working on things) by next Sunday
+Goals:		Get Something Working By the end of the month.
+	Marcus: Have a method for Sharing 3D Files between both Unity, Blender and Git.
+	Mark.S: Getting Unity files To work with Git, Decide on a genre.

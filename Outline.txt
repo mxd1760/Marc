@@ -6,7 +6,7 @@ We Use Blender for the Modeling/Animation stuff (.fbx is the format used for fil
 
 Team Roles:
 	Marcus.D: 3D Art Stuff (& possibly ???)
-Mark.M: ???
+	Mark.M: ???
 	Mark.S: ???Programming???
 	
 
@@ -14,8 +14,8 @@ Project Goals:
 	Setup: (get a system working)
 	Brainstorming: (What kind of game do we want?)
 	Make A Prototype: (Unclear)
-RPG:
-    		Pros:
+	RPG:
+    			Pros:
 				Easy to make movement
 			Cons:
 				Depends heavily on story

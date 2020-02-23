@@ -14,24 +14,8 @@ Project Goals:
 	Setup: (get a system working)
 	Brainstorming: (What kind of game do we want?)
 	Make A Prototype: (Unclear)
-	RPG:
-    			Pros:
-				Easy to make movement
-			Cons:
-				Depends heavily on story
-				Much work to expand
-  	Platformer:
-    			Pros:
-				Little to no story
-				Easy to make more levels
-			Cons:
-				Medium to difficult movement dependency
-  	Racing:
-    			Pros:
-				Simpleish movement
-				Little to no story
-			Cons:
-				Difficult to expand.
+		RPG:
+			
 ============================================================================================================================================
 Project Updates:
 
@@ -43,3 +27,13 @@ Doing:		Have some kind of Plan (enough to start working on things) by next Sunda
 Goals:		Get Something Working By the end of the month.
 	Marcus: Have a method for Sharing 3D Files between both Unity, Blender and Git.
 	Mark.S: Getting Unity files To work with Git, Decide on a genre.
+	
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date: 02/23/2020
+
+Done:		Worked on Building work flow pipeline and decided on a simple project
+Doing:		Build a prototype
+Goals:		Get Something Working by end of month
+	Marcus: 
+	Mark.s: Do Some design stuff
+	Mark.M:

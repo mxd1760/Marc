@@ -20,15 +20,6 @@ Project Goals:
 Project Updates:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-Date: 02/16/2020
-
-Done: 		Started Stuff
-Doing:		Have some kind of Plan (enough to start working on things) by next Sunday
-Goals:		Get Something Working By the end of the month.
-	Marcus: Have a method for Sharing 3D Files between both Unity, Blender and Git.
-	Mark.S: Getting Unity files To work with Git, Decide on a genre.
-	
---------------------------------------------------------------------------------------------------------------------------------------------
 Date: 02/23/2020
 
 Done:		Worked on Building work flow pipeline and decided on a simple project
@@ -37,3 +28,13 @@ Goals:		Get Something Working by end of month
 	Marcus: 
 	Mark.s: Do Some design stuff
 	Mark.M:
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date: 02/16/2020
+
+Done: 		Started Stuff
+Doing:		Have some kind of Plan (enough to start working on things) by next Sunday
+Goals:		Get Something Working By the end of the month.
+	Marcus: Have a method for Sharing 3D Files between both Unity, Blender and Git.
+	Mark.S: Getting Unity files To work with Git, Decide on a genre.
+	

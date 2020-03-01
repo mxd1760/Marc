@@ -5,9 +5,9 @@ We use Unity for the Game Dev Stuff
 We Use Blender for the Modeling/Animation stuff (.fbx is the format used for files)
 
 Team Roles:
-	Marcus.D: 3D Art Stuff (& possibly ???)
-	Mark.M: ???
-	Mark.S: ???Programming???
+	Marcus: Guy A
+	Mark.M: Guy 1
+	Mark.S: Guy 1st
 	
 
 Project Goals:
@@ -18,7 +18,15 @@ Project Goals:
 			
 ============================================================================================================================================
 Project Updates:
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date: 03/01/2020
 
+Done:		Continued with Setup of Project Pipeline
+Doing:	Marcus:	Get Adventure Kid Animating In Game
+	Mark.S:	Develop menuing system outline 
+	Mark.M: Do Something. Lore?
+Goals:		Get A playable prototype by the end of March
+	
 --------------------------------------------------------------------------------------------------------------------------------------------
 Date: 02/23/2020
 

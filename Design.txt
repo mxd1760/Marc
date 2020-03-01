@@ -1,0 +1,11 @@
+Our Game is going to be an RPG.
+
+3D Game.
+
+Walking around and talking to people:
+    - Menu system.
+       - heavy branching.
+Fighting of some kind:
+    - Menu Based.
+    
+

@@ -18,12 +18,22 @@ Project Goals:
 			
 ============================================================================================================================================
 Project Updates:
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date: 03/22/2020
+
+Done:		We have done more Game Design Planning arouund a dialog system as well as some basic enviornmental design.
+Doing:	Marcus: Continue with enviornment design.
+	Mark.s: Impliment a simple dialog system. 
+	Mark.m: Lore and game design (writing) 
+Goals: 		Get the first level playable.
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 Date: 03/15/2020
 
 Done: 		Have implimented a WIP game with some placeholders to add features to.
 Doing:	Marcus: Do Some Story/ Enviornment design
-	Marc.S: More planning for Dialog system.
+	Mark.S: More planning for Dialog system.
 	Mark.M: ???
 Goals:		Fill out the prototype into something a bit more engaging, more like a demo instead of a proof of concept.
 

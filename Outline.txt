@@ -22,10 +22,10 @@ Project Updates:
 Date: 03/29/2020
 
 Done:	Marcus: Finished the terrain for a new level
-	Mark.S: 
+	Mark.S: Made basic dialog system test, made game doc outline
 	Mark.M:
 Doing:	Marcus: Create A terrain for a Beach Level (start of the Game)
-	Mark.S: 
+	Mark.S: Continue work on dialog system
 	Mark.M: 
 Goals:		Get a level Playable
 --------------------------------------------------------------------------------------------------------------------------------------------

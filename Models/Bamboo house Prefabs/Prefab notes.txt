@@ -1,0 +1,7 @@
+All these prefabs are 1x1x1.3 (x,y,z) 
+They are meant to be able to chain together into larger buildings
+
+Pieces still needed:
+	More Roof pieces:
+		Flat roof:
+		Wall to roof:

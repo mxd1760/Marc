@@ -18,6 +18,20 @@ Project Goals:
 			
 ============================================================================================================================================
 Project Updates:
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date: 04/19/2020
+
+Done:	Marcus:  - Finsihed a building in unity using the prefabs, prefabed that building, and plopped some around a small section of 
+		the first level.
+	Mark.S:
+	Mark.M:
+Doing:	Marcus:	 - This Week I hope to try and feel out some different methods of modeling some prefabs to get into unity to get the
+		assets into the game easyer and faster. 
+	Mark.S:
+	Mark.M:
+Goals:		Get A level Playable. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 Date: 04/12/2020
 

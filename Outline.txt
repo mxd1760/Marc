@@ -24,10 +24,10 @@ Project Updates:
 Date: 04/26/2020
 
 Done:	Marcus: - Basically nothing. took the week off.
-	Mark.S:
+	Mark.S: - Not too much either, did another design doc
 	Mark.M:
 Doing:	Marcus:	- I'm going to focus on adding more content to the levels.
-	Mark.S;
+	Mark.S; - Come up with more elements that should be implemented at some point
 	Mark.M:
 Goals:		Get some gameply to put into the level to start feeling things out.
 
@@ -36,7 +36,7 @@ Date: 04/19/2020
 
 Done:	Marcus:  - Finsihed a building in unity using the prefabs, prefabed that building, and plopped some around a small section of 
 		the first level.
-	Mark.S:
+	Mark.S: - Did more work on dialouge system and deciding how to proceed with game
 	Mark.M:
 Doing:	Marcus:	 - This Week I hope to try and feel out some different methods of modeling some prefabs to get into unity to get the
 		assets into the game easyer and faster. 

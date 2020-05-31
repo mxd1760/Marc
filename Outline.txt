@@ -19,6 +19,18 @@ Project Goals:
 ============================================================================================================================================
 Project Updates:
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date: 05/31/2020
+
+Done:	Marcus: - since the last meeting I completed some work for both the level 0 scene and the level 1 scene. I was also able to 
+		start a level 2 scene that is set in the jungle.
+	Mark.S:
+	Mark.M:
+Doing:	Marcus:	- This week I'm hoping to finish a draft of the jungle scene so that next week i can start working on more pertinant 
+		things. 
+	Mark.S:
+	Mark.M:
+Goals:		Finish prototyping gameplay foundations.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 Date: 04/26/2020

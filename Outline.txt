@@ -18,7 +18,16 @@ Project Goals:
 			
 ============================================================================================================================================
 Project Updates:
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date: 05/31/2020
 
+Done:	Marcus: - 
+	Mark.S: - Continued work on talk system for movement 
+	Mark.M:
+Doing:	Marcus:	- 
+	Mark.S: - Will work on making the talk system work for combat
+	Mark.M:
+Goals:		Get some gameply to put into the level to start feeling things out.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 Date: 04/26/2020

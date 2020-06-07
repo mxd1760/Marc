@@ -18,6 +18,18 @@ Project Goals:
 			
 ============================================================================================================================================
 Project Updates:
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+DateL 06/07/2020
+
+Done:	Marcus: - Last week I finished the first draft of the Jungle Area. (though without treetops it looks a bit deforested)
+	Mark.s: - 
+	Mark.m: - 
+Doing:	Marcus: - This week I hope wot work on more relevant assets acording to what everyon else has gotten done. 
+	Mark.S:
+	Mark.M:
+Goals:		Get Some Basic Gameplay features implimented to facilitate more accurate planning for upcoming months.
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 Date: 05/31/2020
 

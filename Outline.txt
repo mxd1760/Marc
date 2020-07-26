@@ -18,6 +18,17 @@ Project Goals:
 			
 ============================================================================================================================================
 Project Updates:
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Date; 07/26/2020
+
+Done:	Marcus: - Since last time i've been working on learning how to make characters
+	Mark.S: - Since last time mark has been working more onthe game engine.
+	Mark.M:
+Doing:	Marcus:	- This week I hope to continue with the character stuff as well as maybe do some side work to help mark get a demo up.
+	Mark.S: - Mark plans to continue working toward getting a functional demo up and running.
+	Mark.M: - Presumably he's still working on some lore type things. 
+Goals:		Get a Demo up and running and be prepared to get full into preproduction/production.
 --------------------------------------------------------------------------------------------------------------------------------------------
 Date: 06/14/2020
 

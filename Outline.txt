@@ -20,6 +20,19 @@ Project Goals:
 Project Updates:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+Date: 08/16/2020
+
+Done:	Marcus: - I've kinda been slacking on the charachter design practice. I've also been learning about a different game engine for work but when
+		I'm done with that I can focus on the 3D modeling stuff because it will be useful for both this project and my godot work for work.
+	Mark.S: - 
+	Mark.M: - Trying to work on the story and setting for the intro.
+Doing:	Marcus: - I'm hoping to finish my godot learning and then just crap out a couple of charachters to use.
+	Mark.S: - 
+	Mark.M: - Mark hopes to finish up with his starting area stuff. 
+Goals:	We might need to Reconvine in the near future to try and reorient ourselves. I think that trying to focus on a short demo instead of a full game to start
+	with will help us feel out our roles a bit better without being so hesitant due to uncertanty. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 Date; 07/26/2020
 
 Done:	Marcus: - Since last time i've been working on learning how to make characters

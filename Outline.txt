@@ -20,6 +20,19 @@ Project Goals:
 Project Updates:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+Date 10/04/2020
+
+Done:	Marcus: - I've been going extremely slowly in past weeks compared to before then with the character designs due to other life things.
+	Mark.S: - 
+	Mark.M: - 
+Doing:	Marcus: - I'm planning to try and foce myself to just do work more often even if it's less quality, more work will mean things will get done
+		with enough time at the end to fix the things that need to be done better.
+	Mark.S: - 
+	Mark.M: - 
+Goals:	 - A prototype was our first goal but we still haven't reached it. I think we should reconsider what our goals actually are and how we plan to 
+	achieve them. If nothing else This first few months might have been enough to get our toes wet enough to know what we need going in for round 2. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 Date: 08/16/2020
 
 Done:	Marcus: - I've kinda been slacking on the charachter design practice. I've also been learning about a different game engine for work but when

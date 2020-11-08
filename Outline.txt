@@ -20,6 +20,19 @@ Project Goals:
 Project Updates:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+Date: 11/08/2020
+
+Done:	Marcus: - I've made a demo platformer in godot
+	Mark.S: - I've brainstormed about how we might be able to make our platformer work as a rhythm game
+	Mark.M: - I've been brainstorming about mechanics that might help make our platformer more mechanichally engaging. 
+Doing:	Marcus: - I think I'm going to try and work to retool my platformer into a more sidescroller type version that can then support the 
+		new mechanical ideas a bit better.
+	Mark.S: - I'm going to be working on the systems that would be used to impliment the rhythm game aspects into the game.
+	Mark.M: - I'm going to work on theming ideas and assets for the game.
+Goals:  - I think next week we'll want to have improved on our prototypes and such. I think it would also behoove us to have a better idea as
+	to how we're going to retool this git repository in order to share our new godot based project as opposed to the old unity stuff. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 Date 10/04/2020
 
 Done:	Marcus: - I've been going extremely slowly in past weeks compared to before then with the character designs due to other life things.

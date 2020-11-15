@@ -20,6 +20,17 @@ Project Goals:
 Project Updates:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+Date: 11/15/2020
+
+Done:	Marcus: - I've reworked my simple platformer to better conform to the vision we were talking about last week
+	Mark.S: - Took the reworked simple platformer and worked on adding new logic for generating platforms based on music.
+	Mark.M: - I worked on more brainstorming
+Doing:	Marcus: - I Think I'll work on getting the godot project integrated into a git repository (probably this one) so that we can all work on an up to date 
+		version of it without haveing to constantly be cunsulting and file sharing.
+	Mark.S: - I'm going to work on finishing up my integration of the logic with the godot project.
+	Mark.M: - I'm going to work on learning godot and/or creating game assets. 
+Goals:	We have something playable, we're now working on adding to it in order to make it into a fun rhythm base platformer. 
+--------------------------------------------------------------------------------------------------------------------------------------------
 Date: 11/08/2020
 
 Done:	Marcus: - I've made a demo platformer in godot
